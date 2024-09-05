@@ -7,7 +7,7 @@ package fingerprint;
 
 /**
  *
- * @author Dave
+ * 
  */
 public class MAIN_ADMIN extends javax.swing.JFrame {
 
