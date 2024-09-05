@@ -7,7 +7,7 @@ package fingerprint;
 
 /**
  *
- * @author Dave
+ * 
  */
 import java.util.*;
 public class Fingerprint {
