@@ -7,7 +7,7 @@ package fingerprint;
 
 /**
  *
- * @author Dave
+ * 
  */
 public class LOGIN extends javax.swing.JFrame {
 
